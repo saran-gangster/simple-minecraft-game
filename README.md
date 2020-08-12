@@ -7,7 +7,7 @@ usage:\
         #cd  to/the/extracted/folder\
         #type "python main.py" in the terminal or command prompt\
         # use wasd to move \
-        #Enjoy! playing!\
+        #Enjoy! playing!
 
 NOTE: Please report any bug while you are playing!\
  **********************************Thank you*************************************

@@ -10,4 +10,4 @@ usage:\
         # Enjoy! playing!
 
 NOTE: Please report any bug while you are playing!\
- **********************************Thank you*************************************
+**Thank you**
